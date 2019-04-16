@@ -1,0 +1,14 @@
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.csprojAssemblyReference.cache
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.csproj.CoreCompileInputs.cache
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.RazorAssemblyInfo.cache
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.RazorAssemblyInfo.cs
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.AssemblyInfoInputs.cache
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.AssemblyInfo.cs
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\bin\Debug\netcoreapp2.2\ApiOrderBook.deps.json
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\bin\Debug\netcoreapp2.2\ApiOrderBook.runtimeconfig.json
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\bin\Debug\netcoreapp2.2\ApiOrderBook.runtimeconfig.dev.json
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\bin\Debug\netcoreapp2.2\ApiOrderBook.dll
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\bin\Debug\netcoreapp2.2\ApiOrderBook.pdb
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.RazorTargetAssemblyInfo.cache
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.dll
+C:\aspcore\challengeJuniorDeveloper\ApiOrderBook\obj\Debug\netcoreapp2.2\ApiOrderBook.pdb
